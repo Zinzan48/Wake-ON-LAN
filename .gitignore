@@ -1,0 +1,15 @@
+# Rust build artifacts
+/target/
+*.pdb
+
+# Packaging / temporary files
+/dist/
+*.tmp
+*.zip
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
